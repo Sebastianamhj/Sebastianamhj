@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sebastianamhj
-- 👀 I’m interested in Flutter, Kotlin, Firebase
+- 👀 I’m interested in Kotlin, Firebase, Compose, Koin, Angular
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me sebastianamhoj@hotmail.com
 
