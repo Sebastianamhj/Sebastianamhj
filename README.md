@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianamhj&label=Profile%20views&color=ff62d0&style=flat" alt="sebastianamhj" /> </p>
 
-- 🔭 I’m currently working on [MessagingApp](https://github.com/Sebastianamhj/MessagingApp)
+- 🔭 I’m currently working on [An App about space and it's wonders!](https://github.com/Sebastianamhj/OurUniverse)
 
-- 🌱 I’m currently learning **Kotlin, MongoDB Realm**
+- 🌱 I’m currently learning **Clean Code Architecture**
 
 - 💬 Ask me about **Android**
 
