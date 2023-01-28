@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [An App about space and it's wonders!](https://github.com/Sebastianamhj/OurUniverse)
 
-- 🌱 I’m currently learning **Clean Code Architecture**
+- 🌱 I’m currently learning **Compose Animations**
 
 - 💬 Ask me about **Android**
 
