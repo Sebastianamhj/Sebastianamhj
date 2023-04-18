@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [An App about space and it's wonders!](https://github.com/Sebastianamhj/OurUniverse)
 
-- 🌱 I’m currently learning **iOS**
+- 🌱 I’m currently learning **Android Bluetooth**
 
 - 💬 Ask me about **Android**
 
